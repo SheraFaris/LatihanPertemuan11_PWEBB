@@ -37,3 +37,8 @@ require 'cek_login.php';
             </div>
         </div>
         <div class="container-fluid mt-3">
+        </div><!-- container -->
+    </div><!-- main -->
+</div><!-- d-flex -->
+</body>
+</html>
